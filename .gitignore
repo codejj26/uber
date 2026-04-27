@@ -20,6 +20,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Generated outputs
-uber_clean.csv
